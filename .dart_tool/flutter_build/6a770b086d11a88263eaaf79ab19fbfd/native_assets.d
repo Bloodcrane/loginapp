@@ -1,0 +1,1 @@
+ /home/luka/StudioProjects/login-app/loginapp/.dart_tool/flutter_build/6a770b086d11a88263eaaf79ab19fbfd/native_assets.yaml: 
